@@ -1,4 +1,4 @@
-  EXERIMENT: 1.1
+EXERIMENT: 1.1
 Design And Draft The Given 2D  Sketches In Modelling Software.
 
 AIM: 
